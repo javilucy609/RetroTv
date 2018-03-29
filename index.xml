@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>cocina</title>
+<title>recetas de pollo</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/test1.xml</externallink>
 </item>
  
 <item>
@@ -13,7 +13,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/cocina2.xml</externallink>
 </item>
  
 <item>
