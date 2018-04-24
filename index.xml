@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>recetas de pollo</title>
+<title>peliculas</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://images7.alphacoders.com/868/thumb-1920-868807.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/test1.xml</externallink>
+<externallink></externallink>
 </item>
  
 <item>
-<title>cocina 2</title>
+<title>series</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>http://www.hdfondos.eu/pictures/2015/0602/1/orig_94537.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/cocina2.xml</externallink>
+<externallink></externallink>
 </item>
  
 <item>
-<title></title>
+<title>humor</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://cde.peru.com//ima/0/1/4/6/8/1468670/924x530/club-comedia.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
