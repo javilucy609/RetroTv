@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>español</title>        
+<beautifulsoup>http://ver-peliculas.io/peliculas/en-espanol/</beautifulsoup>
+<thumbnail>https://images7.alphacoders.com/868/thumb-1920-868807.jpg</thumbnail>
+<fanart>https://images7.alphacoders.com/868/thumb-1920-868807.jpg</fanart>
+</item>
+
+<item>
 <title>peliculas</title>        
-<urlsolve>https://www.youtube.com/watch?v=xjKug_xBxVI</urlsolve>
+<beautifulsoup>http://ver-peliculas.io/peliculas/en-espanol/</beautifulsoup>
 <thumbnail>https://images7.alphacoders.com/868/thumb-1920-868807.jpg</thumbnail>
 <fanart>https://images7.alphacoders.com/868/thumb-1920-868807.jpg</fanart>
 </item>
