@@ -14,12 +14,12 @@
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/humor/chiquito-calzada.xml</externallink>
-</item
+</item>
 
 <item>
 <title>Gila </title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/humor/Gila.xml</externallink>
-</item
+<urlsolve>https://raw.githubusercontent.com/javilucy609/RetroTv/master/humor/Gila.xml</urlsolve>
+</item>
