@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Canal cocina</title>
+<title>Canal cocina xml</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/cocina/cocina.xml</externallink>
 </item>
  
  <item>
-<title></title>
+<title>Canal cocina py</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/cocina/cocina.py</externallink>
 </item>
