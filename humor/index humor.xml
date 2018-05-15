@@ -23,3 +23,11 @@
 <link>http://ignoreme</link>
 <urlsolve>https://raw.githubusercontent.com/javilucy609/RetroTv/master/humor/Gila.xml</urlsolve>
 </item>
+
+<item>
+<title>Gim </title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<urlsolve>https://raw.githubusercontent.com/javilucy609/RetroTv/master/gim.xml</urlsolve>
+</item>
