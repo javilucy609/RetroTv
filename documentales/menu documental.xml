@@ -13,5 +13,21 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<youtube>https://raw.githubusercontent.com/javilucy609/RetroTv/master/documentales/secretos%20del%20universo.xml</youtube>
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/documentales/secretos%20del%20universo.xml</externallink>
+</item>
+
+ <item>
+<title>Explora xml</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/documentales/default%20documental.xml</externallink>
+</item>
+
+<item>
+<title>Explora py</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/documentales/default%20documental.py</externallink>
 </item>
