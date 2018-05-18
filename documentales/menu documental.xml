@@ -7,6 +7,15 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/documentales/animales.xml</externallink>
 </item>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>Peliculas m3u</title>
+<link>https://raw.githubusercontent.com/javilucy609/RetroTv/master/documentales/categorias/bd.m3u</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
  
  <item>
 <title>Secretos del Universo</title>
