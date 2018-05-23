@@ -4,11 +4,11 @@
 
 <SetViewMode>500</SetViewMode>
 <item>
-<title>[COLOR skyblue] * [/COLOR][COLOR yellow] SERIES A/Z [/COLOR][COLOR skyblue] * [/COLOR]</title>
+<title>[COLOR skyblue] * [/COLOR][COLOR yellow] Peliculas[/COLOR][COLOR skyblue] * [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.imgur.com/Tn99cKV.jpg</thumbnail> 
 <fanart>https://i.imgur.com/Tn99cKV.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/series/series%20a-z.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/pelis/peliculas.xml</externallink>	
 </item>
 
 
@@ -17,5 +17,5 @@
 <link>http://Ignoreme</link>
 <thumbnail>https://i.imgur.com/lYZrOc0.jpg</thumbnail> 
 <fanart>https://i.imgur.com/lYZrOc0.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/series/sagas.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/pelis/sagas.xml</externallink>	
 </item>
