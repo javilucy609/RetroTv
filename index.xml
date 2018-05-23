@@ -10,14 +10,21 @@
 <externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/zona%20tv/menu%20zona%20tv.xml</externallink>
 </item>
  
- 
  <item>
+<title>[COLOR  lime]• [/COLOR][COLOR cyan] livetv [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/live%20tv/menu%20livetv.xml</externallink>
+</item>
+
+ item>
 <title>[COLOR lime]• [/COLOR][COLOR cyan] Arenavision[/COLOR]</title>
 <thumbnail>https://3.bp.blogspot.com/-twD47Buw68c/WZrDHyamNfI/AAAAAAAAAIo/0ui2OmCJKkMqwGtwzDuKuWecaiStohjDwCLcBGAs/s1600/arenavision.png</thumbnail>
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/topogc/TopoGC/master/Arenavision.xml</externallink>
-</item>
+/item>
 
 <item>
 <title>[COLOR  lime]• [/COLOR][COLOR cyan] COSAS DE LA TELE[/COLOR]</title>
@@ -318,18 +325,18 @@
 <externallink>https://raw.githubusercontent.com/Andorth/atlantis/master/main.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR blue]• [/COLOR][COLOR yellow] Avezy[/COLOR][COLOR red] Addon Avezy Necesario[/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.avezy/</jsonrpc>
 <thumbnail>http://dimitrology.com/wp-content/uploads/2017/08/icon-5.png</thumbnail>
 <fanart>http://www.androidaba.com/wp-content/uploads/2016/12/ar1.jpg</fanart>
-</item>
+/item>
 
-<item>
+item>
 <title>[COLOR blue]• [/COLOR][COLOR yellow] Palantir [/COLOR][COLOR red]Addon Palantir Necesario[/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.palantir/</jsonrpc>
 <thumbnail>http://mundokodi.com/wp-content/uploads/2017/07/palantir.png?x86522</thumbnail>
 <fanart>https://i.ytimg.com/vi/-sEMxukeC3M/maxresdefault.jpg</fanart>
-</item>
+/item>
