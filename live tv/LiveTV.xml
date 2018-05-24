@@ -33,10 +33,29 @@
             <thumbnail>http://cinestrenostv.tv/canales/nacionales/tve2.php</thumbnail>
             </item>  
 					<item>
+            <title>[COLOR yellow][COLOR blue]**RetroTv** [/COLOR][COLOR red] Tv3 [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/img/tv3.png</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail>http://cinestrenostv.tv/canales/nacionales/tv3.php</thumbnail>
+            </item> 
+					<item>
             <title>[COLOR yellow][COLOR blue]**RetroTv** [/COLOR][COLOR red] Antena 3 [/COLOR]</title>
             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/antena-3.php</sportsdevil>
            <referer>http://cinestrenostv.tv/</referer>
             <thumbnail>http://verdirectotv.tv/logos/antena3.png</thumbnail>
+            </item> 
+			
+					<item>
+            <title>[COLOR yellow][COLOR blue]**RetroTv** [/COLOR][COLOR red] Telecinco [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/telecinco.php</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail>http://verdirectotv.tv/logos/telecinco.png</thumbnail>
+            </item> 
+                    <item>
+            <title>[COLOR yellow][COLOR blue]**RetroTv** [/COLOR][COLOR red] La Sexta [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-sexta.php</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail>http://verdirectotv.tv/logos/sexta.png</thumbnail>
             </item> 
 			
 					<item>
@@ -46,21 +65,11 @@
             <thumbnail>http://verdirectotv.tv/logos/cuatro.png</thumbnail>
             </item> 
 			
-					<item>
-            <title>[COLOR yellow][COLOR blue]**RetroTv** [/COLOR][COLOR red] Telecinco [/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/telecinco.php</sportsdevil>
-           <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail>http://verdirectotv.tv/logos/telecinco.png</thumbnail>
-            </item> 
+					
 			
 			
 			
-			<item>
-            <title>[COLOR yellow][COLOR blue]**RetroTv** [/COLOR][COLOR red] La Sexta [/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-sexta.php</sportsdevil>
-           <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail>http://verdirectotv.tv/logos/sexta.png</thumbnail>
-            </item> 
+			
 			
 				<item>
             <title>[COLOR yellow][COLOR blue]**RetroTv** [/COLOR][COLOR red] Nova [/COLOR]</title>
