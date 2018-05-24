@@ -4,24 +4,24 @@
 
 
 	
-	
-	
-	
 	<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR red] CREADO POR retrotv [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  Blue]_**_  [/COLOR][COLOR White] Tv en Directo [/COLOR][COLOR orange]  [/COLOR][COLOR  Blue]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
-<thumbnail>https://i.imgur.com/Vj6tXUY.jpg</thumbnail>
-<fanart>https://i.imgur.com/Vj6tXUY.jpg</fanart>
-</item>
+<thumbnail></thumbnail>
+<fanart></fanart>
+    </item>
+	
+	
+	
 	
 	<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR red] livetv[/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR red]LIVE TV[/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/live%20tv/LiveTV.xml</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
+    </item>
 	
 	
 	
