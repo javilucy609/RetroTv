@@ -23,20 +23,20 @@
             <title>[COLOR yellow][COLOR blue]**RetroTv** [/COLOR][COLOR red] Tve1 [/COLOR]</title>
             <sportsdevil>http://cinestrenostv.tv/img/tve1.png</sportsdevil>
            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail>http://cinestrenostv.tv/canales/nacionales/tve1.php</thumbnail>
+            <thumbnail>http://www.rtve.es/directo/la-1/</thumbnail>
             </item> 
 			
 			        <item>
             <title>[COLOR yellow][COLOR blue]**RetroTv** [/COLOR][COLOR red] Tve2 [/COLOR]</title>
             <sportsdevil>http://cinestrenostv.tv/img/tve2.png</sportsdevil>
            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail>http://cinestrenostv.tv/canales/nacionales/tve2.php</thumbnail>
+            <thumbnail>http://www.rtve.es/alacarta/tve/la2/</thumbnail>
             </item>  
 					<item>
             <title>[COLOR yellow][COLOR blue]**RetroTv** [/COLOR][COLOR red] Tv3 [/COLOR]</title>
             <sportsdevil>http://cinestrenostv.tv/img/tv3.png</sportsdevil>
            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail>http://cinestrenostv.tv/canales/nacionales/tv3.php</thumbnail>
+            <thumbnail>http://www.ccma.cat/tv3/directe/tv3/</thumbnail>
             </item> 
 					<item>
             <title>[COLOR yellow][COLOR blue]**RetroTv** [/COLOR][COLOR red] Antena 3 [/COLOR]</title>
