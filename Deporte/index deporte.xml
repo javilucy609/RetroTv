@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SetViewMode>500</SetViewMode>
+<items>
+ 
+ <item>
+  <title>v/2  [COLOR turquoise]Me-Buscan  [COLOR cyan]Acestream[/COLOR]  ESP + intl </title>
+<thumbnail>http://website.informer.com/thumbnails/280x202/m/mebuscan.net.png</thumbnail>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR bisque] [makelist.param3] [/COLOR]</title>
+    <link>plugin://program.plexus/?url=$doregex[get-link]&amp;mode=1&amp;name=[makelist.param3]</link>
+    <thumbnail>http://mebuscan.net/[makelist.param1]|Referer=http://mebuscan.net/</thumbnail>
+]]></listrepeat>            thumb              link                title
+<expres><![CDATA[Logo" src="(.*?)".*?ventana1\((\d*)\)><strong><br>(.*?)<\/strong>]]></expres>
+<page>http://mebuscan.net</page>  
+</regex>
+
+<regex>
+<name>get-link</name>
+<expres>"acestream://(.*?)"</expres>
+<page>http://mebuscan.net/kosm/contenedor.php?canal=[makelist.param2]&amp;nav=ANDR</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+<item>
+<title>[COLOR gold]arenavision.tk[/COLOR] </title>
+<fanart>https://www.decorablog.com/wp-content/2015/05/cesped-artificial3.jpg</fanart>
+<thumbnail>https://ae01.alicdn.com/kf/HTB1K102PFXXXXcSXXXXq6xXFXXXR/Car-Styling-Funny-font-b-Cartoon-b-font-font-b-Football-b-font-font-b-Logo.jpg</thumbnail>                      
+<link>http://ignore</link>
+<externallink>https://raw.githubusercontent.com/Andorth/netai/master/test/arenavision.tk.xml</externallink>
+<info>*Nosotros no alojamos ningun tipo de señal en nuestro servidor. Solo capturamos la señal de Areanavision. Estos enlaces son propiedad de sus respectivos dueños. Arena Sports solo la enlaza.</info>
+</item>
+<item>
+<title>[COLOR gold]arenavision2017.ml[/COLOR] </title>
+<fanart>https://www.decorablog.com/wp-content/2015/05/cesped-artificial3.jpg</fanart>
+<thumbnail>https://ae01.alicdn.com/kf/HTB1K102PFXXXXcSXXXXq6xXFXXXR/Car-Styling-Funny-font-b-Cartoon-b-font-font-b-Football-b-font-font-b-Logo.jpg</thumbnail>                      
+<link>http://ignore</link>
+<externallink>https://raw.githubusercontent.com/Andorth/netai/master/test/arenavision2017.ml.xml</externallink>
+<info>*Nosotros no alojamos ningun tipo de señal en nuestro servidor. Solo capturamos la señal de Areanavision. Estos enlaces son propiedad de sus respectivos dueños. Arena Sports solo la enlaza.</info>
+</item>
+<item>
+<title>[COLOR gold]arenavision.ezy[/COLOR] </title>
+<fanart>https://www.decorablog.com/wp-content/2015/05/cesped-artificial3.jpg</fanart>
+<thumbnail>https://ae01.alicdn.com/kf/HTB1K102PFXXXXcSXXXXq6xXFXXXR/Car-Styling-Funny-font-b-Cartoon-b-font-font-b-Football-b-font-font-b-Logo.jpg</thumbnail>                      
+<link>http://ignore</link>
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/Deporte/arenavision%20avz.xml</externallink>
+<info>*Nosotros no alojamos ningun tipo de señal en nuestro servidor. Solo capturamos la señal de Areanavision. Estos enlaces son propiedad de sus respectivos dueños. Arena Sports solo la enlaza.</info>
+</item>
+<item>
+<title>[COLOR gold]arenavision.us[/COLOR] </title>
+<fanart>https://www.decorablog.com/wp-content/2015/05/cesped-artificial3.jpg</fanart>
+<thumbnail>https://ae01.alicdn.com/kf/HTB1K102PFXXXXcSXXXXq6xXFXXXR/Car-Styling-Funny-font-b-Cartoon-b-font-font-b-Football-b-font-font-b-Logo.jpg</thumbnail>                      
+<link>http://ignore</link>
+<externallink>https://raw.githubusercontent.com/Andorth/netai/master/test/arenavision.us.xml</externallink>
+<info>*Nosotros no alojamos ningun tipo de señal en nuestro servidor. Solo capturamos la señal de Areanavision. Estos enlaces son propiedad de sus respectivos dueños. Arena Sports solo la enlaza.</info>
+</item>
+<item>
+<title>[COLOR gold]arenavision.top[/COLOR] </title>
+<fanart>https://www.decorablog.com/wp-content/2015/05/cesped-artificial3.jpg</fanart>
+<thumbnail>https://ae01.alicdn.com/kf/HTB1K102PFXXXXcSXXXXq6xXFXXXR/Car-Styling-Funny-font-b-Cartoon-b-font-font-b-Football-b-font-font-b-Logo.jpg</thumbnail>                      
+<link>http://ignore</link>
+<externallink>https://raw.githubusercontent.com/Andorth/netai/master/test/arenavision.top.xml</externallink>
+<info>*Nosotros no alojamos ningun tipo de señal en nuestro servidor. Solo capturamos la señal de Areanavision. Estos enlaces son propiedad de sus respectivos dueños. Arena Sports solo la enlaza.</info>
+</item>
+<item>
+<title>[COLOR gold]arenavision2017.tk[/COLOR] </title>
+<fanart>https://www.decorablog.com/wp-content/2015/05/cesped-artificial3.jpg</fanart>
+<thumbnail>https://ae01.alicdn.com/kf/HTB1K102PFXXXXcSXXXXq6xXFXXXR/Car-Styling-Funny-font-b-Cartoon-b-font-font-b-Football-b-font-font-b-Logo.jpg</thumbnail>                      
+<link>http://ignore</link>
+<externallink>https://raw.githubusercontent.com/Andorth/netai/master/test/arenavision2017.tk.xml</externallink>
+<info>*Nosotros no alojamos ningun tipo de señal en nuestro servidor. Solo capturamos la señal de Areanavision. Estos enlaces son propiedad de sus respectivos dueños. Arena Sports solo la enlaza.</info>
+</item>
+</items>
