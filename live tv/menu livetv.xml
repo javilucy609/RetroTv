@@ -12,23 +12,24 @@
 <fanart></fanart>
     </item>
 	
-	
-	
+	<item>
+<title>[COLOR  Blue]_**_  [/COLOR][COLOR White] Canales Retro-SpanishTv [/COLOR][COLOR orange]  [/COLOR][COLOR  Blue]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/Retro-spainTv/index%20kodispain.xml</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+    </item>
 	
 	<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR red]LIVE TV[/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR red]Live TV[/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/live%20tv/LiveTV.xml</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
     </item>
 	
-	
-	
-	
-
-<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] CANALES TDT [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
+	<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] Canales TDT [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
 <thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</thumbnail>
 <fanart>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</fanart>
 <link>ignoreme</link>
