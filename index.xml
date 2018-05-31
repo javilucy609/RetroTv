@@ -19,11 +19,19 @@
 </item>
 
 <item>
-<title>COCINA</title>
+<title>[COLOR  lime]• [/COLOR][COLOR cyan] Cocina [/COLOR]</title>
 <link>nolink</link>
 <externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/cocina/menu%20cocina.xml</externallink>
 <thumbnail>https://s18.postimg.cc/bcj47622h/COCINA_YT.png</thumbnail>
 <fanart>https://s18.postimg.cc/cetapoal5/COCINA_YT.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR  lime]• [/COLOR][COLOR cyan] Musica [/COLOR]</title>
+<link>nolink</link>
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/musica/musica.xml</externallink>
+<thumbnail>http://logoquizrespuestas.com/wp-content/uploads/2014/08/LogoQuiz-Bandas-de-musica-200x200.png</thumbnail>
+<fanart>https://tuswallpapersgratis.com/wp-content/uploads/2013/03/Armin-Pioneer-DJ-755401.jpeg</fanart>
 </item>
 
  <item>
