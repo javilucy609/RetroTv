@@ -24,14 +24,14 @@
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue]Live TV[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/live%20tv/LiveTV.xml</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://pmcvariety.files.wordpress.com/2013/03/dvr-television.jpg</thumbnail>
+<fanart>https://ae01.alicdn.com/kf/HTB1gQ4wcS3PL1JjSZFxq6ABBVXa3/Beibehang-papel-pintado-personalizado-3D-est-reo-silueta-canal-KTV-Restaurante-Sal-n-dormitorio-TV-sof.jpg</fanart>
     </item>
 	
 	<item>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] Canales TDT [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
 <thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</thumbnail>
-<fanart>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</fanart>
+<fanart>https://viloriosierte.com/wp-content/uploads/2017/04/apertura-tdt-antenizacion.jpg</fanart>
 <link>ignoreme</link>
 <info>Canaies de TDT y AUTONOMICOS españoles</info>
 <externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/live%20tv/tdt.xml</externallink>
@@ -41,8 +41,8 @@
 <item>
 <title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] MOVISTAR [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>https://i.imgur.com/YSKPXch.jpg</thumbnail>
-<fanart>https://i.imgur.com/YSKPXch.jpg<fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Movistar%2B.svg/1200px-Movistar%2B.svg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/GqpGAwP_Gxk/maxresdefault.jpg<fanart>
 <externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/live%20tv/movistar.xml</externallink> 
 </item>
 
