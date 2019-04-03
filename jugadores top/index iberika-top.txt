@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+</item>
+<item>
+<title>[B] [COLOR yellow]--> [COLOR white]Televison Nacional[/B][/COLOR][/COLOR]</title>
+<link>http://ignorame<link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://ibericakodi.blogspot.com/p/tdt.html</externallink>
+</item>
+<item>
+<title>[B] [COLOR yellow]--> [COLOR white]Deportes[/B][/COLOR][/COLOR]</title>
+<link>http://ignorame<link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://pastebin.com/raw/SBJKxAqu</externallink>
+</item>
+<item>
+<title>[B] [COLOR yellow]--> [COLOR white]Entretenimiento[/B][/COLOR][/COLOR]</title>
+<link>http://ignorame<link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://ibericakodi.blogspot.com/p/esp-entre.html</externallink>
+</item>
+<item>
+<title>[B] [COLOR yellow]--> [COLOR white]Dibujos Animados[/B][/COLOR][/COLOR]</title>
+<link>http://ignorame<link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://pastebin.com/raw/3TcNN0v0</externallink>
+</item>
+<item>
+<title>[B] [COLOR yellow]--> [COLOR white]Mas Canales[/B][/COLOR][/COLOR]</title>
+<link>http://ignorame<link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://pastebin.com/raw/hYZqSNgc</externallink>
+</item>
